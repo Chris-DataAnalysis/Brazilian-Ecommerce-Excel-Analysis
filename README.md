@@ -32,6 +32,9 @@ An Analysis of a Brazilian ecommerce public dataset of orders made at Olist Stor
 - Customer reviews are mostly positive, with a high proportion of 5-star ratings  
 - Order volume is highest on Mondays and Tuesdays, dropping towards weekends
 
+## Screenshots
+- To make this project easier to explore without downloading the Excel file, I’ve included screenshots of some of the key analyses in a seperate folder
+
 ## Data Source
 
 The dataset used in this project is publicly available on Kaggle:
